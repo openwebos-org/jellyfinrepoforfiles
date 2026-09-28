@@ -11,7 +11,7 @@
         "version": "1.0.0.0",
         "changelog": "Initial release",
         "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/openwebos-org/jellyfinrepoforfiles/raw/refs/heads/main/Jellyfin.Plugin.WebFileManager.dll",
+        "sourceUrl": "https://github.com/openwebos-org/jellyfinrepoforfiles/raw/refs/heads/main/WebFileManager.zip",
         "checksum": "",
         "timestamp": "2026-09-28T00:00:00Z"
       }
